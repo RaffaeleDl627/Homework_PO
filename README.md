@@ -1,5 +1,6 @@
 # Homework_PO
-Hackaton
+Hackaton.
+
 Ho iniziato creando una classe Piattaforma che ha come responsabilità di pubblicare la classifica finale.
 
 La piattaforma è composta dai suoi iscritti, ma potrebbe esistere anche senza di essi. 
